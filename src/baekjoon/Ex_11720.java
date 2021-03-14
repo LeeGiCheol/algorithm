@@ -1,4 +1,4 @@
-package string;
+package baekjoon;
 
 /*
     문제
@@ -20,7 +20,7 @@ package string;
 
 import java.util.Scanner;
 
-public class _01_Ex_11720 {
+public class Ex_11720 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
