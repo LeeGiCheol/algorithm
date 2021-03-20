@@ -1,5 +1,12 @@
 package array;
 
+/*
+    주식 한 주를 한 번 사고팔아 얻을 수 있는 최대 수익을 계산한다.
+
+    주식을 샀으면 무조건 팔아야한다.
+    주식을 사지 않으면 팔 수 없다.
+ */
+
 public class _01_maxProfit {
 
     public static void main(String[] args) {
